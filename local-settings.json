@@ -1,4 +1,5 @@
 {
   "password": "flymyprecious",
-  "sas-token": "sp=r&st=2022-08-11T20:56:09Z&se=2022-08-12T04:56:09Z&spr=https&sv=2021-06-08&sr=b&sig=7lC1%2FL2hoM6jiO6rjiGR7Pcz4%2FPXtoQdxPJXHJ5m2M0%3D"
+  "sas-token": "sp=r&st=2022-08-11T20:56:09Z&se=2022-08-12T04:56:09Z&spr=https&sv=2021-06-08&sr=b&sig=7lC1%2FL2hoM6jiO6rjiGR7Pcz4%2FPXtoQdxPJXHJ5m2M0%3D",
+  "something": "else"
 }
